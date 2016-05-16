@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TWeather</string>
+    <string name="no_weather_index">暂无天气推荐数据，请查看左侧栏最近天气信息</string>
+</resources>
